@@ -9,13 +9,13 @@
 <br/>
 
 <!-- SOCIAL BADGES -->
-<a href="https://maria149395.github.io/portafolio/"><img src="https://img.shields.io/badge/MI_PORTAFOLIO-9b59b6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
+<a href="https://olayne-purple.github.io/portafolio/"><img src="https://img.shields.io/badge/MI_PORTAFOLIO-9b59b6?style=for-the-badge&logo=google-chrome&logoColor=white" /></a>&nbsp;
 <a href="https://www.linkedin.com/in/olayne-guadalupe-mar%C3%ADa-isabel-esp%C3%ADritu-d%C3%ADaz-b545a2347"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>&nbsp;
 <a href="mailto:isabel14myg@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=Maria149395&style=flat-square&color=9b59b6&label=Visitas+al+perfil" alt="Profile views" />
+<img src="https://komarev.com/ghpvc/?username=olayne-purple&style=flat-square&color=9b59b6&label=Visitas+al+perfil" alt="Profile views" />
 
 </div>
 
@@ -118,12 +118,12 @@ class OlayneEspiritu:
 
 <div align="center">
 
-[![Portafolio](https://github-readme-stats.vercel.app/api/pin/?username=Maria149395&repo=portafolio&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/Maria149395/portafolio)
-[![BTS Fansite](https://github-readme-stats.vercel.app/api/pin/?username=Maria149395&repo=bts-universe-fansite&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/Maria149395/bts-universe-fansite)
-[![Monitoreo Red](https://github-readme-stats.vercel.app/api/pin/?username=Maria149395&repo=monitoreo-red&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/Maria149395/monitoreo-red)
-[![Dashboard Minera](https://github-readme-stats.vercel.app/api/pin/?username=Maria149395&repo=dashboard-gestion-minera&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/Maria149395/dashboard-gestion-minera)
-[![Inventario TI](https://github-readme-stats.vercel.app/api/pin/?username=Maria149395&repo=inventario-activos-ti&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/Maria149395/inventario-activos-ti)
-[![Escaner](https://github-readme-stats.vercel.app/api/pin/?username=Maria149395&repo=escaner-vulnerabilidades&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/Maria149395/escaner-vulnerabilidades)
+[![Portafolio](https://github-readme-stats.vercel.app/api/pin/?username=olayne-purple&repo=portafolio&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/olayne-purple/portafolio)
+[![BTS Fansite](https://github-readme-stats.vercel.app/api/pin/?username=olayne-purple&repo=bts-universe-fansite&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/olayne-purple/bts-universe-fansite)
+[![Monitoreo Red](https://github-readme-stats.vercel.app/api/pin/?username=olayne-purple&repo=monitoreo-red&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/olayne-purple/monitoreo-red)
+[![Dashboard Minera](https://github-readme-stats.vercel.app/api/pin/?username=olayne-purple&repo=dashboard-gestion-minera&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/olayne-purple/dashboard-gestion-minera)
+[![Inventario TI](https://github-readme-stats.vercel.app/api/pin/?username=olayne-purple&repo=inventario-activos-ti&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/olayne-purple/inventario-activos-ti)
+[![Escaner](https://github-readme-stats.vercel.app/api/pin/?username=olayne-purple&repo=escaner-vulnerabilidades&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef)](https://github.com/olayne-purple/escaner-vulnerabilidades)
 
 </div>
 
@@ -133,16 +133,16 @@ class OlayneEspiritu:
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Maria149395&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef&ring_color=9b59b6" width="49%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Maria149395&theme=material-palenight&hide_border=true&background=1a1333&ring=9b59b6&fire=d2b4de&currStreakLabel=d2b4de&sideLabels=d2b4de&dates=e8daef" width="49%" />
+<img src="https://github-readme-stats.vercel.app/api?username=olayne-purple&show_icons=true&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&icon_color=9b59b6&text_color=e8daef&ring_color=9b59b6" width="49%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=olayne-purple&theme=material-palenight&hide_border=true&background=1a1333&ring=9b59b6&fire=d2b4de&currStreakLabel=d2b4de&sideLabels=d2b4de&dates=e8daef" width="49%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maria149395&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&text_color=e8daef&langs_count=8" width="40%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=olayne-purple&layout=compact&theme=material-palenight&hide_border=true&bg_color=1a1333&title_color=d2b4de&text_color=e8daef&langs_count=8" width="40%" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Maria149395&bg_color=1a1333&color=d2b4de&line=9b59b6&point=e8daef&area=true&area_color=9b59b6&hide_border=true" width="95%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=olayne-purple&bg_color=1a1333&color=d2b4de&line=9b59b6&point=e8daef&area=true&area_color=9b59b6&hide_border=true" width="95%" />
 
 </div>
 
